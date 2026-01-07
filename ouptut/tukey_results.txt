@@ -1,0 +1,71 @@
+              Multiple Comparison of Means - Tukey HSD, FWER=0.05               
+================================================================================
+       group1              group2       meandiff p-adj   lower    upper   reject
+--------------------------------------------------------------------------------
+ All Rounder - flat All Rounder - hills  20.3456 0.0003   5.9407  34.7505   True
+ All Rounder - flat All Rounder - mount  51.9824    0.0  35.8313  68.1334   True
+ All Rounder - flat      Climber - flat  -10.347 0.4365  -24.707   4.0131  False
+ All Rounder - flat     Climber - hills   6.2273 0.9409  -7.3485  19.8031  False
+ All Rounder - flat     Climber - mount  20.4197 0.0005   5.4618  35.3776   True
+ All Rounder - flat     Sprinter - flat  23.5358    0.0   9.8216    37.25   True
+ All Rounder - flat    Sprinter - hills -10.2386 0.3015 -23.3039   2.8267  False
+ All Rounder - flat    Sprinter - mount -13.3998 0.0866 -27.6118   0.8122  False
+ All Rounder - flat    Unclassed - flat  -9.7006  0.217 -21.3668   1.9656  False
+ All Rounder - flat   Unclassed - hills  -6.3444  0.814 -17.8213   5.1324  False
+ All Rounder - flat   Unclassed - mount -12.4899 0.0275 -24.3053  -0.6744   True
+All Rounder - hills All Rounder - mount  31.6368    0.0   16.431  46.8425   True
+All Rounder - hills      Climber - flat -30.6926    0.0 -43.9805 -17.4047   True
+All Rounder - hills     Climber - hills -14.1183 0.0112 -26.5545  -1.6821   True
+All Rounder - hills     Climber - mount   0.0741    1.0 -13.8577   14.006  False
+All Rounder - hills     Sprinter - flat   3.1902 0.9996  -9.3969  15.7774  False
+All Rounder - hills    Sprinter - hills -30.5842    0.0  -42.461 -18.7073   True
+All Rounder - hills    Sprinter - mount -33.7454    0.0 -46.8731 -20.6176   True
+All Rounder - hills    Unclassed - flat -30.0462    0.0  -40.364 -19.7284   True
+All Rounder - hills   Unclassed - hills   -26.69    0.0 -36.7932 -16.5868   True
+All Rounder - hills   Unclassed - mount -32.8355    0.0 -43.3217 -22.3492   True
+All Rounder - mount      Climber - flat -62.3293    0.0 -77.4926  -47.166   True
+All Rounder - mount     Climber - hills -45.7551    0.0 -60.1778 -31.3323   True
+All Rounder - mount     Climber - mount -31.5627    0.0 -47.2933  -15.832   True
+All Rounder - mount     Sprinter - flat -28.4465    0.0 -42.9996 -13.8934   True
+All Rounder - mount    Sprinter - hills -62.2209    0.0 -76.1643 -48.2776   True
+All Rounder - mount    Sprinter - mount -65.3822    0.0 -80.4053  -50.359   True
+All Rounder - mount    Unclassed - flat -61.6829    0.0 -74.3247 -49.0412   True
+All Rounder - mount   Unclassed - hills -58.3268    0.0  -70.794 -45.8596   True
+All Rounder - mount   Unclassed - mount -64.4722    0.0 -77.2519 -51.6926   True
+     Climber - flat     Climber - hills  16.5743 0.0008     4.19  28.9585   True
+     Climber - flat     Climber - mount  30.7667    0.0  16.8811  44.6522   True
+     Climber - flat     Sprinter - flat  33.8828    0.0   21.347  46.4186   True
+     Climber - flat    Sprinter - hills   0.1084    1.0 -11.7141  11.9308  False
+     Climber - flat    Sprinter - mount  -3.0528 0.9998 -16.1314  10.0257  False
+     Climber - flat    Unclassed - flat   0.6464    1.0  -9.6088  10.9015  False
+     Climber - flat   Unclassed - hills   4.0025 0.9788  -6.0367  14.0417  False
+     Climber - flat   Unclassed - mount  -2.1429 0.9999 -12.5676   8.2818  False
+    Climber - hills     Climber - mount  14.1924   0.02   1.1196  27.2652   True
+    Climber - hills     Sprinter - flat  17.3085 0.0001   5.6794  28.9377   True
+    Climber - hills    Sprinter - hills -16.4659    0.0 -27.3222  -5.6095   True
+    Climber - hills    Sprinter - mount -19.6271    0.0 -31.8393  -7.4149   True
+    Climber - hills    Unclassed - flat -15.9279    0.0 -25.0525  -6.8033   True
+    Climber - hills   Unclassed - hills -12.5717 0.0002 -21.4529  -3.6905   True
+    Climber - hills   Unclassed - mount -18.7172    0.0 -28.0319  -9.4025   True
+    Climber - mount     Sprinter - flat   3.1161 0.9998 -10.1003  16.3326  False
+    Climber - mount    Sprinter - hills -30.6583    0.0 -43.2001 -18.1164   True
+    Climber - mount    Sprinter - mount -33.8195    0.0 -47.5518 -20.0872   True
+    Climber - mount    Unclassed - flat -30.1203    0.0 -41.1971 -19.0435   True
+    Climber - mount   Unclassed - hills -26.7641    0.0 -37.6413 -15.8869   True
+    Climber - mount   Unclassed - mount -32.9096    0.0 -44.1435 -21.6756   True
+    Sprinter - flat    Sprinter - hills -33.7744    0.0 -44.8034 -22.7455   True
+    Sprinter - flat    Sprinter - mount -36.9356    0.0 -49.3016 -24.5697   True
+    Sprinter - flat    Unclassed - flat -33.2364    0.0 -42.5657 -23.9072   True
+    Sprinter - flat   Unclassed - hills -29.8803    0.0 -38.9717 -20.7889   True
+    Sprinter - flat   Unclassed - mount -36.0257    0.0  -45.541 -26.5104   True
+   Sprinter - hills    Sprinter - mount  -3.1612 0.9992 -14.8033   8.4809  False
+   Sprinter - hills    Unclassed - flat    0.538    1.0  -7.8082   8.8842  False
+   Sprinter - hills   Unclassed - hills   3.8942 0.9178  -4.1852  11.9735  False
+   Sprinter - hills   Unclassed - mount  -2.2513 0.9994 -10.8049   6.3023  False
+   Sprinter - mount    Unclassed - flat   3.6992 0.9887  -6.3475  13.7459  False
+   Sprinter - mount   Unclassed - hills   7.0554 0.4423  -2.7709  16.8816  False
+   Sprinter - mount   Unclassed - mount   0.9099    1.0  -9.3098  11.1296  False
+   Unclassed - flat   Unclassed - hills   3.3562 0.7061  -2.1822   8.8946  False
+   Unclassed - flat   Unclassed - mount  -2.7893 0.9489  -8.9991   3.4205  False
+  Unclassed - hills   Unclassed - mount  -6.1454 0.0293 -11.9918  -0.2991   True
+--------------------------------------------------------------------------------
