@@ -56,5 +56,5 @@ The analysis utilizes:
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/cycling-performance-analysis.git
-cd cycling-performance-analysis
+git clone https://github.com/MohamedAzzam4/tu-dortmund-application-task.git
+cd tu-dortmund-application-task
