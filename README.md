@@ -24,10 +24,7 @@ The analysis utilizes:
 - `analysis_code.py` → Main Python script for data cleaning, statistical analysis, and visualization.
 - `data_report.csv` → Dataset containing rider performance records.
 - `requirements.txt` → List of Python dependencies required to run the code.
-- `output/` → Generated after running the script. Contains:
-  - Plots (`.png`)
-  - Statistical results (`.csv`, `.txt`)
-
+- 
 ---
 
 ## 📊 Key Findings
